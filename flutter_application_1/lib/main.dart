@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/icon_widget.dart';
-import 'package:flutter_application_1/image_widget.dart';
-import 'package:flutter_application_1/text_widget.dart';
+import 'package:flutter_application_1/layout_widgets/icon_widget.dart';
+import 'package:flutter_application_1/layout_widgets/image_widget.dart';
+import 'package:flutter_application_1/layout_widgets/text_widget.dart';
 
 void main() {
   runApp(const MyApp());
